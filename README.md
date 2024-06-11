@@ -1,16 +1,25 @@
-## Hi there 👋
+<div >
 
-<!--
-**magualteros/magualteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Hi i'am Marlon Gualteros 👋
 
-Here are some ideas to get you started:
+  <h3>Programming Languages</h3>
+  <kbd>
+    <img width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+    <img width="200px" src="https://logospng.org/download/php/logo-php-1024.png" alt="PHP" title="PHP"/> 
+    <img width="200px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />
+  </kbd>   
+  <kbd>
+      <h3>Front-end</h3>
+      <br>
+      <img alig="center" width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
+      <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
+      <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
+    </kbd>
+</kbd>
+<br>
+<hr width="36%" >
+  | Title Tiotulo | Description |
+  | ----------- | ----------- |
+  | |<img src="" />|
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
