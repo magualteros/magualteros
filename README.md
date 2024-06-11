@@ -8,6 +8,7 @@
   </kbd> 
   <br>
   <hr width=100%>
+<H4>SKILLS</H4>
     <div>
        <p align="center">
          <a href="https://skillicons.dev">
@@ -16,6 +17,9 @@
        </p>
     </div>
   <br>
+  <hr width=100%>
+
+ <h4>PROJECTS</h4>
 
 |  Title |  Description |
 | ----------- | ----------- |
